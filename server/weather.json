@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "/usr/local/bin/uv",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "/Users/aswinganapathysubramanian/Documents/PersonalProjects/MCP/mcpcrashcourse/server/weather.py"
+        ]
+      }
+    }
+  }
